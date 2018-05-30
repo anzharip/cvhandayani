@@ -1,0 +1,46 @@
+title: 'CV Dwi Putri Handayani'
+default_lang: id
+author:
+  name: 'John Appleseed'
+  email: john@email.com
+  copyright: 'Copyright 2013 Gateway. All Rights Reserved.'
+taxonomies:
+  - category
+  - tag
+  - featured
+metadata:
+  description: 'CV Dwi Putri  Handayani'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+routes:
+  /something/else: /blog/sample-3
+  /another/one/here: /blog/sample-3
+  '/new/*': '/blog/*'
+blog:
+  route: /blog
+logo: logo.png
+header:
+  title: 'CV Dwi Putri Handayani'
+  background: background.jpg
+social:
+  -
+    url: 'https://twitter.com/getgrav'
+    icon: twitter
+  -
+    url: '#'
+    icon: facebook
+  -
+    url: 'http://www.vimeo.com'
+    icon: vimeo-square
+  -
+    url: 'http://www.pinterest.com'
+    icon: pinterest
+footer:
+  widget:
+    title: 'CV Dwi Putri Handayani'
+    description: 'CV Dwi Putri Handayani <br> Office: Jl. Mayjend Sutoyo No. 27, Yogyakarta <br> Factory: Ngawen, Nglipar, Gunung Kidul, DIY. <br> Email: sales@dph.com'
+    link: null
+copyright: 'Copyright © 2075 <a href="http://rescuethemes.com/">Rescue Themes</a>. All Rights Reserved. Converted by <a href="http://www.getgrav.org">Grav Team</a>'

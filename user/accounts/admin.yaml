@@ -1,0 +1,11 @@
+email: anzhari@merahputih.id
+fullname: 'John Doe'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$qXNRE/r3Mab6JZVkMjuDiedGx2VL7XQx/wL1DL/aKOHG7yc9m0uqO
